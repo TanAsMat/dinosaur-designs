@@ -10,12 +10,13 @@ html {
 }
 
 img {
-  width: 100%
+  width: 100%;
 }
 
 h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
+  font-family: "Patua One", sans-serif;
 }
 
 figcaption {
@@ -25,6 +26,7 @@ figcaption {
 }
 
 nav {
+  font-family: "Patua One", sans-serif;
   font-size: 1.125rem;
   font-weight: bold;
 }
